@@ -305,3 +305,7 @@ footer .questions {
     flex-direction: column;
     gap: 23px;
 }
+.helpdesk_no {
+    font-size: 14px;
+    color: whitesmoke;
+}
